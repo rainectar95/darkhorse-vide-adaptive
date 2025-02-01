@@ -250,6 +250,10 @@ button,
 
 }
 
+.hide-scrollbar {
+  overflow: hidden;
+}
+
 #preloader.fade-out {
   height: 0;
   pointer-events: none;
