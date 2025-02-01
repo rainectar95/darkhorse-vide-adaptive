@@ -232,6 +232,9 @@ button,
 .close_menu {
   cursor: pointer;
 }
+.hide-scrollbar {
+  overflow: hidden;
+}
 
 #preloader {
   position: fixed;
