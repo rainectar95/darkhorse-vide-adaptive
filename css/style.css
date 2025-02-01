@@ -232,9 +232,6 @@ button,
 .close_menu {
   cursor: pointer;
 }
-.hide-scrollbar {
-  overflow: hidden;
-}
 
 #preloader {
   position: fixed;
@@ -416,7 +413,7 @@ nav {
   height: 100%;
   top: 0;
   left: 0;
-  box-shadow: inset 0 0 9rem 4rem var(--color-bg-primary-default);
+  box-shadow: inset 0 0 12rem 2rem var(--color-bg-primary-default);
 }
 
 .sub_block {
